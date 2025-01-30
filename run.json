@@ -1,5 +1,0 @@
-{
-  "dev": "gradle -q hello",
-  "sit": "gradle -q hello",
-  "feature": "gradle -q hello"
-}
